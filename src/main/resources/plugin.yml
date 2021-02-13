@@ -2,3 +2,9 @@ name: Dimension_conflict
 version: @version@
 main: com.github.chaosindustry.dimension_conflict.Dimension_conflict
 api-version: 1.15
+commands:
+  IwannabeaDiamondman:
+    description: This is a diamond command.
+    usage: /IwannabeaDiamondman [player]
+    permission: dimension_conflict.IwannabeaDiamondman
+    permission-message: You cannot be diamond, idiot!
